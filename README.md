@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ 기술 스택
+<img height="32" width="32" src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=#6DB33F ">
