@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ✨ 기술 스택<br>
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-0000FF?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=#6DB33F ">
-<img src="https://img.shields.io/badge/JPA-0B3B17?style=flat-square&logo=#6DB33F ">
-<img src="https://img.shields.io/badge/MySQL-FF8000?style=flat-square&logo=#6DB33F ">
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-0000FF?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring">
+<img src="https://img.shields.io/badge/JPA-0B3B17?style=flat-square">
+<img src="https://img.shields.io/badge/MySQL-FF8000?style=flat-square&logo=MySQL">
+
 
 
